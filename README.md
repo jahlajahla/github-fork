@@ -1,2 +1,1 @@
-# github-fork
-Hello, siti13. This is readme from upstream repository
+Tugas lab ghci-006-1
