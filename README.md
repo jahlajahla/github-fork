@@ -1,1 +1,1 @@
-Tugas lab ghci-006-1
+Hello, i'm siti13. This is readme from fork repository
